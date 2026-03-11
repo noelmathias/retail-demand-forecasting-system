@@ -100,10 +100,6 @@ Key insights discovered:
 - Demand differs across stores and items
 - Overall demand trend increases gradually over time
 
-Example visualization:
-
-![Dashboard Overview](assets/dashboard_overview.png)
-
 ---
 
 # Feature Engineering
